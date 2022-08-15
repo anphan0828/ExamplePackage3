@@ -10,7 +10,7 @@ with open("README.md","r") as fh:
 
 # Setting up
 setup(
-        name="ExamplePackage2",
+        name="ExamplePackage3",
         version=VERSION,
         author="An Phan",
         author_email = "<ahphan@iastate.edu>",
@@ -21,7 +21,7 @@ setup(
         install_requires=[],
         py_modules=["hello"],
         package_dir={'': 'src'},
-        url="https://github.com/anphan0828/ExamplePackage2.git",
+        url="https://github.com/anphan0828/ExamplePackage3.git",
         classifiers=[
             "Programming Language :: Python :: 3",
             "Operating System :: Unix",
