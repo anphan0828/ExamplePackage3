@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ExamplePackage2
+Version: 0.0.1
+Summary: A package example
+Author: An Phan
+Author-email: <ahphan@iastate.edu>
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+
+UNKNOWN
+
