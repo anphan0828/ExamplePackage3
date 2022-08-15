@@ -1,7 +1,0 @@
-setup.py
-ExamplePackage2/__init__.py
-ExamplePackage2/hello.py
-ExamplePackage2.egg-info/PKG-INFO
-ExamplePackage2.egg-info/SOURCES.txt
-ExamplePackage2.egg-info/dependency_links.txt
-ExamplePackage2.egg-info/top_level.txt
